@@ -6,5 +6,9 @@ public class MaClassExemple {
 		
 		return "Hello, the world!";
 	}
+	
+	
+	
+	
 
 }
